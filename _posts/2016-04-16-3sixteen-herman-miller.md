@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-10T05:53:42.953Z'
+datePublished: '2016-08-10T05:54:42.827Z'
 sourcePath: _posts/2016-04-16-3sixteen-herman-miller.md
 inFeed: true
 isBasedOnUrl: >-
@@ -20,7 +20,7 @@ related: []
 author:
   - name: Rafael Martínez
 via: {}
-dateModified: '2016-08-10T05:53:42.728Z'
+dateModified: '2016-08-10T05:54:41.988Z'
 title: Tao para dirigentes
 app_links: []
 publisher:
@@ -29,18 +29,14 @@ publisher:
   favicon: 'http://assets.coolhunting.com/favicon.ico'
   domain: www.coolhunting.com
 description: >-
-  Hace tres meses di una conferencia sobre Estrategia Personal en el centro
-  penitenciario del Soto del Real, y en el turno de preguntas un preso citó este
-  libro al hilo de uno de los temas. Para mi sorpresa otros presos lo conocían y
-  se entabló una interesante discusión. Recordé que Mario Conde había hablado
-  mucho de la importancia del Tao Te King en su periodo carcelario. Pensé que
-  quizá las cosas hubieran sido distintas si hubiera llegado antes al libro...
-  ¿Tendría sentido para un líder empresarial convertir al Tao Te King en una
-  lectura recurrente? Sólo tres días después, Jack Dorsey, CEO de Twitter,
-  mencionaba a este libro como el primero de entre los que más le habían
-  influido. Después comprobé que es también el libro favorito citado por Jack
-  Ma, el increíble CEO de Alibaba, cuando un entrevistador cae en preguntar ese
-  lugar común.
+  Nadie esperaba que Lao Tse, el viejo y sabio bibliotecario de palacio,
+  decidiera renunciar a la corte y abandonar el país. Montó a escondidas en su
+  búfalo azul y alcanzó la última frontera. El guardián le reconoció por sus
+  grandes orejas (un hombre que escucha tanto ha de ser sabio) y le impidió
+  marchar hasta que dejara por escrito lo esencial de su conocimiento. Durante
+  25 siglos ese peaje compuesto de 5000 trazos dibujados en la túnica del
+  soldado han sido una guía espiritual y filosófica en China, e influencia
+  creciente en todo el mundo. ¿Qué tiene que decir al líder de una organización?
 inLanguage: en
 inNav: false
 starred: false
@@ -48,7 +44,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f04a92fd70ba0596ea6b8079424cfee8970ec89c.jpg" /><h1>Tao para dirigentes</h1><p>Nadie esperaba que Lao Tse, el viejo y sabio bibliotecario de palacio, decidiera renunciar a la corte y abandonar el país. Montó a escondidas en su búfalo azul y alcanzó la última frontera. El guardián le reconoció por sus grandes orejas (un hombre que escucha tanto ha de ser sabio) y le impidió marchar hasta que dejara por escrito lo esencial de su conocimiento. Durante 25 siglos ese peaje compuesto de 5000 trazos dibujados en la túnica del soldado han sido una guía espiritual y filosófica en China, e influencia creciente en todo el mundo. ¿Qué tiene que decir al líder de una organización?</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f04a92fd70ba0596ea6b8079424cfee8970ec89c.jpg" /><h1>Tao para dirigentes</h1><p>Nadie esperaba que Lao Tse, el viejo y sabio bibliotecario de palacio, decidiera renunciar a la corte y abandonar el país. Montó a escondidas en su búfalo azul y alcanzó la última frontera. El guardián le impidió marchar hasta que dejara por escrito lo esencial de su conocimiento. Durante 25 siglos ese peaje compuesto de 5000 trazos dibujados en la túnica del soldado han sido una guía espiritual y filosófica en China, e influencia creciente en todo el mundo. ¿Qué tiene que decir al líder de una organización?</p></article>
+
+Nadie esperaba que Lao Tse, el viejo y sabio bibliotecario de palacio, decidiera renunciar a la corte y abandonar el país. Montó a escondidas en su búfalo azul y alcanzó la última frontera. El guardián le reconoció por sus grandes orejas (un hombre que escucha tanto ha de ser sabio) y le impidió marchar hasta que dejara por escrito lo esencial de su conocimiento. Durante 25 siglos ese peaje compuesto de 5000 trazos dibujados en la túnica del soldado han sido una guía espiritual y filosófica en China, e influencia creciente en todo el mundo. ¿Qué tiene que decir al líder de una organización?
 
 Hace tres meses di una conferencia sobre Estrategia Personal en el centro penitenciario del Soto del Real, y en el turno de preguntas un preso citó este libro al hilo de uno de los temas. Para mi sorpresa otros presos lo conocían y se entabló una interesante discusión. Recordé que Mario Conde había hablado mucho de la importancia del Tao Te King en su periodo carcelario. Pensé que quizá las cosas hubieran sido distintas si hubiera llegado antes al libro... ¿Tendría sentido para un líder empresarial convertir al Tao Te King en una lectura recurrente? Sólo tres días después, Jack Dorsey, CEO de Twitter, mencionaba a este libro como el primero de entre los que más le habían influido. Después comprobé que es también el libro favorito citado por Jack Ma, el increíble CEO de Alibaba, cuando un entrevistador cae en preguntar ese lugar común.
 
