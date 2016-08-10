@@ -1,0 +1,14 @@
+layout_spectrum: 0.16193344513885677
+typography_spectrum: 0.7514268981758505
+color:
+  brandStrength: 0.1303362068720162
+  lightness: 0.9722037981264293
+  saturation: 0.7745640494395047
+  rhythmicContrast: 0.4290559538640082
+  brandColors:
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
+name: estratega
