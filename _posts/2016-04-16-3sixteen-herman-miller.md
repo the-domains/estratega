@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-10T05:51:47.247Z'
+datePublished: '2016-08-10T05:53:42.953Z'
 sourcePath: _posts/2016-04-16-3sixteen-herman-miller.md
 inFeed: true
 isBasedOnUrl: >-
@@ -20,7 +20,7 @@ related: []
 author:
   - name: Rafael Martínez
 via: {}
-dateModified: '2016-08-10T05:51:46.474Z'
+dateModified: '2016-08-10T05:53:42.728Z'
 title: Tao para dirigentes
 app_links: []
 publisher:
